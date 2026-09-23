@@ -12,8 +12,8 @@ The goal is not just to complete projects, but to understand **why they work, ho
 
 ### 🟢 Foundation
 
-- [x ] 01 — Home SOC: Wazuh + Suricata + pfSense + Sysmon
-- [ ] 02 — Phishing Email Analysis
+- [x] 01 — [Home SOC: Wazuh + Suricata + pfSense + Sysmon](./01-Home-SOC/)
+- [ ] - [ ] 02 — Phishing Email Analysis
 - [ ] 03 — Network Traffic & PCAP Investigation
 - [ ] 04 — GRC Gap Assessment
 - [ ] 05 — Incident Response Playbook & Tabletop
