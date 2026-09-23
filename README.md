@@ -12,7 +12,7 @@ The goal is not just to complete projects, but to understand **why they work, ho
 
 ### 🟢 Foundation
 
-- [ ] 01 — Home SOC: Wazuh + Suricata + pfSense + Sysmon
+- [x ] 01 — Home SOC: Wazuh + Suricata + pfSense + Sysmon
 - [ ] 02 — Phishing Email Analysis
 - [ ] 03 — Network Traffic & PCAP Investigation
 - [ ] 04 — GRC Gap Assessment
@@ -98,9 +98,9 @@ No unauthorized testing is performed.
 
 ## 📈 Progress
 
-**20 Projects | 0 / 20 Completed**
+**20 Projects | 1 / 20 Completed**
 
-`[--------------------] 0%`
+`[--------------------] 5%`
 
 ---
 
